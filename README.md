@@ -55,6 +55,10 @@ I work as a **Data Scientist** and **Machine Learning Engineer**. In this AI era
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohail-ahmed-26&show_icons=true&theme=radical" alt="sohail-ahmed-26's GitHub stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohail-ahmed-26&theme=radical" alt="sohail-ahmed-26's GitHub streak" width="48%"/>
 </p>
@@ -74,4 +78,14 @@ I work as a **Data Scientist** and **Machine Learning Engineer**. In this AI era
 
 <p align="center">
   <i>"Turning raw data into impactful intelligent solutions."</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohail-ahmed-26&label=Profile%20Views&color=20BEFF&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20BEFF&height=120&section=footer" alt="Footer Graphic" />
 </p>
