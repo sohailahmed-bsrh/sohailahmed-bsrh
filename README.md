@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/sohail-ahmed-devsil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.kaggle.com/sohail2411126"><img src="https://img.shields.io/badge/Kaggle-Rank-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
     <a href="https://x.com/ahmed241126"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-    <a href="mailto:se906403@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:sohail.bsrh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Full-Stack+AI+Engineer;Computer+Vision+%26+Deep+Learning+Architect;FastAPI+Microservices+%26+Distributed+ML;Autonomous+Multi-Agent+Workflows" alt="Typing Banner" />
@@ -137,9 +137,9 @@ Software engineer specializing in end-to-end artificial intelligence systems, cl
         <a href="https://www.linkedin.com/in/sohail-ahmed-devsil/"><img src="https://img.shields.io/badge/LinkedIn-sohail--ahmed--devsil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="https://www.kaggle.com/sohail2411126"><img src="https://img.shields.io/badge/Kaggle-sohail2411126-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
         <a href="https://x.com/ahmed241126"><img src="https://img.shields.io/badge/X-ahmed241126-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-        <a href="mailto:se906403@gmail.com"><img src="https://img.shields.io/badge/Email-se906403@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+        <a href="mailto:sohail.bsrh@gmail.com"><img src="https://img.shields.io/badge/Email-sohail.bsrh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
       </p>
-      <p>Official Developer Domain: <a href="https://sohail.devsil.com">sohail.devsil.com</a> &bull; Inquiries: <a href="mailto:se906403@gmail.com">se906403@gmail.com</a></p>
+      <p>Official Developer Domain: <a href="https://sohail.devsil.com">sohail.devsil.com</a> &bull; Inquiries: <a href="mailto:sohail.bsrh@gmail.com">sohail.bsrh@gmail.com</a></p>
     </td>
   </tr>
 </table>
