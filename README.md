@@ -132,10 +132,12 @@ Software engineer specializing in end-to-end artificial intelligence systems, cl
       <p>
         <a href="https://sohail.devsil.com"><img src="https://img.shields.io/badge/Live_Portfolio-sohail.devsil.com-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
         <a href="https://github.com/sohailahmed-bsrh"><img src="https://img.shields.io/badge/GitHub-sohailahmed--bsrh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-        <a href="https://linkedin.com/in/sohail-ahmed-dev"><img src="https://img.shields.io/badge/LinkedIn-Sohail_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:sohail.bsrh@gmail.com"><img src="https://img.shields.io/badge/Email-sohail.bsrh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+        <a href="https://www.linkedin.com/in/sohail-ahmed-devsil/"><img src="https://img.shields.io/badge/LinkedIn-sohail--ahmed--devsil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://www.kaggle.com/sohail2411126"><img src="https://img.shields.io/badge/Kaggle-sohail2411126-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+        <a href="https://x.com/ahmed241126"><img src="https://img.shields.io/badge/X-ahmed241126-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+        <a href="mailto:se906403@gmail.com"><img src="https://img.shields.io/badge/Email-se906403@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
       </p>
-      <p>Official Developer Domain: <a href="https://sohail.devsil.com">sohail.devsil.com</a> &bull; Inquiries: <a href="mailto:sohail.bsrh@gmail.com">sohail.bsrh@gmail.com</a></p>
+      <p>Official Developer Domain: <a href="https://sohail.devsil.com">sohail.devsil.com</a> &bull; Inquiries: <a href="mailto:se906403@gmail.com">se906403@gmail.com</a></p>
     </td>
   </tr>
 </table>
