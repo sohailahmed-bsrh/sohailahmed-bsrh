@@ -2,6 +2,18 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Sohail%20Ahmed&fontSize=42&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Machine%20Learning%20Specialist&descAlignY=60&descFontSize=18&fontColor=ffffff" width="100%" alt="Header Banner"/>
 
+  <br/>
+
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="assets/coder_3d.gif" width="340" alt="3D Developer Coding with Tea and Laptop"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
   <p align="center">
     <a href="https://sohail.devsil.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-sohail.devsil.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -54,7 +66,7 @@ Focused on building reliable, test-driven, and scalable intelligent applications
 
 ---
 
-### Production Projects
+### Featured Production Projects
 
 | Project | Domain | Architecture / Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
@@ -63,11 +75,13 @@ Focused on building reliable, test-driven, and scalable intelligent applications
 | **Job Analyzer & Matcher** | Generative AI | NLP Keyword Extraction, Similarity Scoring, Python, Streamlit | [`job-analyzer`](https://github.com/sohailahmed-bsrh/job-analyzer) |
 | **ASL Recognition Project** | Computer Vision | Convolutional Neural Networks (CNN), Gesture Classification | [`asl-recognition-project`](https://github.com/sohailahmed-bsrh/asl-recognition-project) |
 | **Social Media Content Rewriter** | NLP & GenAI | Text Transformation, Prompt Architecture, Automation | [`social-media-content-rewriter`](https://github.com/sohailahmed-bsrh/social-media-content-rewriter) |
+| **Customer Churn Prediction** | Data Science | Behavioral Churn Classification, Scikit-learn, Pandas | [`customer-churn-prediction`](https://github.com/sohailahmed-bsrh/customer-churn-prediction) |
+| **Sales Performance Analysis** | Data Analytics | Quantitative Revenue Analytics, Pandas, Seaborn | [`sales-performance-analysis`](https://github.com/sohailahmed-bsrh/sales-performance-analysis) |
 | **Employee Attrition Analysis** | Data Science | Statistical Modeling, Predictive Analytics, Scikit-learn | [`employee-attrition-analysis`](https://github.com/sohailahmed-bsrh/employee-attrition-analysis) |
 
 ---
 
-### GitHub Metrics
+### GitHub Analytics
 
 <div align="center">
   <p align="center">
