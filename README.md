@@ -13,7 +13,7 @@
     <a href="mailto:sohail.bsrh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Full-Stack+AI+Engineer;Computer+Vision+%26+Deep+Learning+Architect;Production-Grade+FastAPI+%26+Distributed+ML;Autonomous+Multi-Agent+Systems" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Full-Stack+AI+Engineer;Computer+Vision+%26+Deep+Learning+Architect;FastAPI+Microservices+%26+Distributed+ML;Autonomous+Multi-Agent+Workflows" alt="Typing Banner" />
 
   <br><br>
 
@@ -23,15 +23,15 @@
 
 ---
 
-### Engineering Profile
+### Professional Overview
 
-Software engineer specializing in end-to-end artificial intelligence systems, computer vision pipelines, and scalable backend architectures. Experienced in building deterministic image processing engines, training deep learning neural networks, orchestrating autonomous multi-agent workflows, and serving real-time machine learning APIs.
+Software engineer specializing in end-to-end artificial intelligence systems, classical computer vision pipelines, and scalable backend architectures. Experienced in building deterministic image processing engines, training deep convolutional neural networks, orchestrating autonomous multi-agent pipelines, and serving real-time machine learning APIs.
 
 ---
 
-### Core Technical Competencies
+### Technical Competency Matrix
 
-| Domain | Technologies & Frameworks |
+| Domain | Frameworks, Languages & Tools |
 | :--- | :--- |
 | Artificial Intelligence & ML | PyTorch, TensorFlow, Keras, Scikit-Learn, LightGBM, XGBoost, YOLOv8 |
 | Computer Vision & NLP | OpenCV, MediaPipe, Pillow, HuggingFace Transformers, SpaCy, LangChain |
@@ -42,7 +42,76 @@ Software engineer specializing in end-to-end artificial intelligence systems, co
 
 ---
 
-### GitHub Analytics & Activity
+### Featured Project Directory
+
+<details open>
+<summary><b>1. Computer Vision & Biometric Systems</b></summary>
+<br>
+
+| Project Repository | Core Domain | Architectural Implementation |
+| :--- | :--- | :--- |
+| [document-scanner-project](https://github.com/sohailahmed-bsrh/document-scanner-project) | Computer Vision | Classical OpenCV, 4-Point Homography Warp, Adaptive Gaussian Whitening, FastAPI |
+| [pothole-detection-app](https://github.com/sohailahmed-bsrh/pothole-detection-app) | Road Safety AI | Fine-Tuned Ultralytics YOLOv8, Real-Time Bounding Boxes, Streamlit App |
+| [smart-attendance-system](https://github.com/sohailahmed-bsrh/smart-attendance-system) | Biometric Identity | 128-D Face Embeddings, Real-Time Landmark Tracking, Anti-Spoofing, Flask |
+| [asl-recognition-project](https://github.com/sohailahmed-bsrh/asl-recognition-project) | Gesture AI | Deep Convolutional Neural Network (CNN), Real-Time Video Classification |
+
+</details>
+
+<details open>
+<summary><b>2. Autonomous Multi-Agent & Media Generation Systems</b></summary>
+<br>
+
+| Project Repository | Core Domain | Architectural Implementation |
+| :--- | :--- | :--- |
+| [slidewright](https://github.com/sohailahmed-bsrh/slidewright) | Autonomous Agents | Decoupled Critic & Designer Multi-Agent Orchestration, Zod Schema Validation |
+| [auto-video-generator](https://github.com/sohailahmed-bsrh/auto-video-generator) | Programmatic Media | Script-to-Video Synthesis, Voiceover Sync, Subtitle Alignment, FFmpeg |
+| [ai-ads-maker](https://github.com/sohailahmed-bsrh/ai-ads-maker) | Creative Automation | Generative Marketing Copywriting, Multi-Ratio Layout Adaptation (1:1, 9:16, 16:9) |
+
+</details>
+
+<details open>
+<summary><b>3. NLP, Text Intelligence & Job Analytics</b></summary>
+<br>
+
+| Project Repository | Core Domain | Architectural Implementation |
+| :--- | :--- | :--- |
+| [job-analyzer](https://github.com/sohailahmed-bsrh/job-analyzer) | Recruitment Tech | Resume Parsing, Quantitative ATS Match Scoring, Playwright PDF Generation |
+| [social-media-content-rewriter](https://github.com/sohailahmed-bsrh/social-media-content-rewriter) | Content Intelligence | Multi-Channel Tone Adaptation, Engagement Analytics, React & Express |
+| [pakistan-law-helper](https://github.com/sohailahmed-bsrh/pakistan-law-helper) | Legal AI | Retrieval-Augmented Generation (RAG), Legal Knowledge Base, Vector Search |
+
+</details>
+
+<details open>
+<summary><b>4. Full-Stack Automation & Enterprise Platforms</b></summary>
+<br>
+
+| Project Repository | Core Domain | Architectural Implementation |
+| :--- | :--- | :--- |
+| [shopify-listing](https://github.com/sohailahmed-bsrh/shopify-listing) | E-Commerce Integration | Product Ingestion, SEO Title Optimization, Shopify Admin REST API Sync |
+| [ecomerce-automation](https://github.com/sohailahmed-bsrh/ecomerce-automation) | Workflow Automation | Inventory Management, Order Synchronization, Pricing Logic Pipelines |
+| [connect-all-together](https://github.com/sohailahmed-bsrh/connect-all-together) | Communications CRM | Full-Stack Messaging Platform, Drizzle ORM Migrations, Bun Runtime |
+| [myportfolio](https://github.com/sohailahmed-bsrh/myportfolio) | Developer Web App | Responsive HTML5/CSS3/JS, Custom Domain CDN, Live Notebook Integration |
+
+</details>
+
+<details open>
+<summary><b>5. Machine Learning & Predictive Modeling Pipelines</b></summary>
+<br>
+
+| Project Repository | Core Domain | Architectural Implementation |
+| :--- | :--- | :--- |
+| [customer-churn-prediction](https://github.com/sohailahmed-bsrh/customer-churn-prediction) | Customer Retention | Supervised Classification, ROC-AUC Tuning, Churn Risk Probability Scoring |
+| [sales-performance-analysis](https://github.com/sohailahmed-bsrh/sales-performance-analysis) | Commercial Analytics | RFM Customer Segmentation, Cohort Retention Matrices, Revenue Trends |
+| [medical-insurance-cost-prediction](https://github.com/sohailahmed-bsrh/medical-insurance-cost-prediction) | Actuarial Regression | Predictive Medical Expenditure Modeling, Regularized Regression |
+| [social-media-engagement-prediction](https://github.com/sohailahmed-bsrh/social-media-engagement-prediction) | Social Analytics | Audience Engagement Forecasts, Gradient Boosted Feature Evaluation |
+| [time-series-forecasting-pipeline](https://github.com/sohailahmed-bsrh/time-series-forecasting-pipeline) | Temporal Modeling | Sequential Time Series Decomposition, ARIMA, Prophet, LSTM |
+| [deep-learning-cnn-lstm](https://github.com/sohailahmed-bsrh/deep-learning-cnn-lstm) | Dual Architecture | Spatial CNN Feature Extraction + LSTM Sequential Memory Benchmarking |
+
+</details>
+
+---
+
+### GitHub Analytics & Profile Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohailahmed-bsrh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
@@ -55,20 +124,18 @@ Software engineer specializing in end-to-end artificial intelligence systems, co
 
 ---
 
-### Key Project Repositories
+### Verified Accounts & Contact Information
 
-| Project Repository | Domain | Architecture |
-| :--- | :--- | :--- |
-| [document-scanner-project](https://github.com/sohailahmed-bsrh/document-scanner-project) | Computer Vision | Classical OpenCV, Perspective Rectification, FastAPI |
-| [pothole-detection-app](https://github.com/sohailahmed-bsrh/pothole-detection-app) | Object Detection | YOLOv8 Object Detection, Streamlit Application |
-| [smart-attendance-system](https://github.com/sohailahmed-bsrh/smart-attendance-system) | Biometric Vision | Facial Recognition, Anti-Spoofing, Real-Time GUI |
-| [job-analyzer](https://github.com/sohailahmed-bsrh/job-analyzer) | NLP & LLM | Resume Keyword Extraction, ATS Match Engine, Express |
-| [slidewright](https://github.com/sohailahmed-bsrh/slidewright) | Autonomous Agents | Multi-Agent Critic & Designer Framework |
-| [ai-ads-maker](https://github.com/sohailahmed-bsrh/ai-ads-maker) | Generative Media | Automated Advertising Copy & Visual Assembly |
-| [auto-video-generator](https://github.com/sohailahmed-bsrh/auto-video-generator) | Media Processing | Autonomous Video Synthesis & Subtitle Generation |
-
----
-
-<div align="center">
-  <p>Live Portfolio: <a href="https://sohail.devsil.com">sohail.devsil.com</a> &bull; Direct Inquiries: <a href="mailto:sohail.bsrh@gmail.com">sohail.bsrh@gmail.com</a></p>
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <p>
+        <a href="https://sohail.devsil.com"><img src="https://img.shields.io/badge/Live_Portfolio-sohail.devsil.com-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+        <a href="https://github.com/sohailahmed-bsrh"><img src="https://img.shields.io/badge/GitHub-sohailahmed--bsrh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://linkedin.com/in/sohail-ahmed-dev"><img src="https://img.shields.io/badge/LinkedIn-Sohail_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="mailto:sohail.bsrh@gmail.com"><img src="https://img.shields.io/badge/Email-sohail.bsrh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+      </p>
+      <p>Official Developer Domain: <a href="https://sohail.devsil.com">sohail.devsil.com</a> &bull; Inquiries: <a href="mailto:sohail.bsrh@gmail.com">sohail.bsrh@gmail.com</a></p>
+    </td>
+  </tr>
+</table>
