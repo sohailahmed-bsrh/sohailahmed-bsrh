@@ -1,100 +1,74 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=Sohail%20Ahmed&fontSize=42&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Machine%20Learning%20Specialist&descAlignY=60&descFontSize=18&fontColor=ffffff" width="100%" alt="Header Banner"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130" alt="3D Mascot"/>
 
-  <br/>
+  <h1>Sohail Ahmed</h1>
 
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="assets/coder_3d.gif" width="340" alt="3D Developer Coding with Tea and Laptop"/>
-      </td>
-    </tr>
-  </table>
+  <p><strong>Full-Stack Artificial Intelligence & Computer Vision Engineer</strong></p>
 
-  <br/>
-
-  <p align="center">
-    <a href="https://sohail.devsil.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-sohail.devsil.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://github.com/sohailahmed-bsrh" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-sohailahmed--bsrh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://www.linkedin.com/in/sohail-ahmed-devsil" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:sohail.bsrh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-sohail.bsrh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.kaggle.com/sohail2411126" target="_blank">
-      <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-    </a>
+  <p>
+    <a href="https://sohail.devsil.com"><img src="https://img.shields.io/badge/Live_Portfolio-sohail.devsil.com-0052FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"/></a>
+    <a href="https://github.com/sohailahmed-bsrh"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
+    <a href="https://linkedin.com/in/sohail-ahmed-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:sohail.bsrh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=20BEFF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Full+Stack+AI+Engineer+%26+Computer+Vision+Specialist;Building+Production+Agentic+Workflows+%26+LLM+Pipelines;Designing+End-to-End+Machine+Learning+Systems" alt="Typing SVG" />
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&lines=Full-Stack+AI+Engineer;Computer+Vision+%26+Deep+Learning+Architect;Production-Grade+FastAPI+%26+Distributed+ML;Autonomous+Multi-Agent+Systems" alt="Typing Banner" />
+
+  <br><br>
+
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="680" alt="3D Developer Coding at Desk"/>
 
 </div>
 
 ---
 
-### Executive Overview
+### Engineering Profile
 
-Full Stack AI Engineer specializing in production-grade machine learning systems, computer vision architectures, and autonomous agent workflows. Experience spans end-to-end development: from exploratory data analysis and deep neural network training to high-throughput API deployment with FastAPI and responsive user interfaces.
-
-Focused on building reliable, test-driven, and scalable intelligent applications for enterprise and real-world deployment.
+Software engineer specializing in end-to-end artificial intelligence systems, computer vision pipelines, and scalable backend architectures. Experienced in building deterministic image processing engines, training deep learning neural networks, orchestrating autonomous multi-agent workflows, and serving real-time machine learning APIs.
 
 ---
 
-### Technical Competencies
+### Core Technical Competencies
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,tensorflow,opencv,scikit,postgres,docker,react,nodejs,ts,js,git,linux,githubactions&perline=8" alt="Tech Stack Icons"/>
-</div>
-
-<br/>
-
-| Domain | Frameworks, Tools and Technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Artificial Intelligence & ML** | PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLOv8, Hugging Face, LangChain |
-| **Backend & Infrastructure** | Python, FastAPI, Flask, Node.js, PostgreSQL, Docker, Linux, REST APIs |
-| **Frontend & UI** | React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Streamlit |
-| **Data Engineering & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, SQL |
-| **DevOps & Version Control** | Git, GitHub Actions, CI/CD Pipelines, Vercel, Netlify |
+| Artificial Intelligence & ML | PyTorch, TensorFlow, Keras, Scikit-Learn, LightGBM, XGBoost, YOLOv8 |
+| Computer Vision & NLP | OpenCV, MediaPipe, Pillow, HuggingFace Transformers, SpaCy, LangChain |
+| Backend & API Engineering | Python, FastAPI, Flask, Uvicorn, Node.js, Express, Bun, REST APIs |
+| Database & ORM | PostgreSQL, MySQL, SQLite, Drizzle ORM, Prisma, Vector DBs (ChromaDB) |
+| Frontend Architecture | JavaScript (ES6+), TypeScript, React, Tailwind CSS, HTML5, Single Page Apps |
+| DevOps & Tooling | Git, GitHub Actions, Docker, Linux, CI/CD, JupyterLab |
 
 ---
 
-### Featured Production Projects
-
-| Project | Domain | Architecture / Tech Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **Smart Attendance System** | Computer Vision | Face Recognition, Real-Time Inference, OpenCV, Python | [`smart-attendance-system`](https://github.com/sohailahmed-bsrh/smart-attendance-system) |
-| **Pothole Detection App** | Deep Learning | YOLOv8 Object Detection, Video Stream Processing, PyTorch | [`pothole-detection-app`](https://github.com/sohailahmed-bsrh/pothole-detection-app) |
-| **Job Analyzer & Matcher** | Generative AI | NLP Keyword Extraction, Similarity Scoring, Python, Streamlit | [`job-analyzer`](https://github.com/sohailahmed-bsrh/job-analyzer) |
-| **ASL Recognition Project** | Computer Vision | Convolutional Neural Networks (CNN), Gesture Classification | [`asl-recognition-project`](https://github.com/sohailahmed-bsrh/asl-recognition-project) |
-| **Social Media Content Rewriter** | NLP & GenAI | Text Transformation, Prompt Architecture, Automation | [`social-media-content-rewriter`](https://github.com/sohailahmed-bsrh/social-media-content-rewriter) |
-| **Customer Churn Prediction** | Data Science | Behavioral Churn Classification, Scikit-learn, Pandas | [`customer-churn-prediction`](https://github.com/sohailahmed-bsrh/customer-churn-prediction) |
-| **Sales Performance Analysis** | Data Analytics | Quantitative Revenue Analytics, Pandas, Seaborn | [`sales-performance-analysis`](https://github.com/sohailahmed-bsrh/sales-performance-analysis) |
-| **Employee Attrition Analysis** | Data Science | Statistical Modeling, Predictive Analytics, Scikit-learn | [`employee-attrition-analysis`](https://github.com/sohailahmed-bsrh/employee-attrition-analysis) |
-
----
-
-### GitHub Analytics
+### GitHub Analytics & Activity
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sohailahmed-bsrh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20beff&icon_color=20beff&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohailahmed-bsrh&theme=tokyonight&hide_border=true&background=0d1117&ring=20beff&fire=20beff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=20beff" alt="GitHub Streak" width="48%"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailahmed-bsrh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=20beff&text_color=c9d1d9" alt="Top Languages" width="48%"/>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sohailahmed-bsrh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohailahmed-bsrh&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailahmed-bsrh&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+</div>
+
+---
+
+### Key Project Repositories
+
+| Project Repository | Domain | Architecture |
+| :--- | :--- | :--- |
+| [document-scanner-project](https://github.com/sohailahmed-bsrh/document-scanner-project) | Computer Vision | Classical OpenCV, Perspective Rectification, FastAPI |
+| [pothole-detection-app](https://github.com/sohailahmed-bsrh/pothole-detection-app) | Object Detection | YOLOv8 Object Detection, Streamlit Application |
+| [smart-attendance-system](https://github.com/sohailahmed-bsrh/smart-attendance-system) | Biometric Vision | Facial Recognition, Anti-Spoofing, Real-Time GUI |
+| [job-analyzer](https://github.com/sohailahmed-bsrh/job-analyzer) | NLP & LLM | Resume Keyword Extraction, ATS Match Engine, Express |
+| [slidewright](https://github.com/sohailahmed-bsrh/slidewright) | Autonomous Agents | Multi-Agent Critic & Designer Framework |
+| [ai-ads-maker](https://github.com/sohailahmed-bsrh/ai-ads-maker) | Generative Media | Automated Advertising Copy & Visual Assembly |
+| [auto-video-generator](https://github.com/sohailahmed-bsrh/auto-video-generator) | Media Processing | Autonomous Video Synthesis & Subtitle Generation |
+
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <p>Live Portfolio: <a href="https://sohail.devsil.com">sohail.devsil.com</a> &bull; Direct Inquiries: <a href="mailto:sohail.bsrh@gmail.com">sohail.bsrh@gmail.com</a></p>
 </div>
